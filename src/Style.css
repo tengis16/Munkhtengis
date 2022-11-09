@@ -1,0 +1,254 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.dad {
+  background-image: url(./assets/img/bg.jpg);
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.team {
+  font-weight: 800;
+  font-size: 48px;
+  color: white;
+  margin-left: 140px;
+  font-style: "Mulish", sans-serif;
+}
+.tav {
+  height: 70px;
+  font-weight: 700px;
+  font-size: 28px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 800px;
+  justify-content: space-around;
+}
+.tomug {
+  font-style: "Mulish", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56.3px;
+  width: 450px;
+  color: white;
+  margin-top: 300px;
+  margin-left: 350px;
+  line-height: 60px;
+}
+.jijigug {
+  font-style: "Mulish", sans-serif;
+  font-weight: 700px;
+  font-size: 25px;
+  color: white;
+  margin-left: 350px;
+  margin-top: 50px;
+  width: 450px;
+}
+.button {
+  width: 200px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #0bbef2;
+  color: white;
+  margin-left: 32px;
+}
+.input {
+  width: 350px;
+  height: 50px;
+  margin-left: 350px;
+  margin-top: 200px;
+}
+.tsagaan {
+  width: 100vw;
+  height: 3000px;
+}
+.ugnuud {
+  display: flex;
+  flex-direction: column;
+}
+.hub {
+  font-size: 56px;
+  font-weight: 800;
+  width: 398px;
+}
+.give {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  width: 435px;
+  margin-top: 40px;
+}
+.learn {
+  font-size: 16px;
+  font-weight: 700px;
+  color: #4da0fd;
+  margin-top: 40px;
+}
+.meet {
+  background-image: url(./assets/img/meet.png);
+  width: 650px;
+  height: 750px;
+  position: absolute;
+  right: 0px;
+  margin-top: 300px;
+}
+.heseghoyr {
+  display: flex;
+  flex-direction: row;
+}
+.gurav {
+  margin-left: 500px;
+  margin-top: 420px;
+}
+
+.keyboard {
+  background-image: url(./assets/img/smile.png);
+  width: 650px;
+  height: 590px;
+  margin-top: 800px;
+}
+.heseggurav {
+  display: flex;
+  flex-direction: row;
+}
+.hoyr {
+  margin-top: 900px;
+  margin-left: 400px;
+}
+.bor {
+  background-image: url(./assets/img/bor.png);
+  width: 650px;
+  height: 570px;
+  margin-top: 400px;
+  margin-left: 400px;
+}
+.what {
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 60px;
+  width: 600px;
+}
+.dund {
+  margin-top: 300px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.durvuljin {
+  width: 366px;
+  height: 375px;
+  border: solid 1px black;
+  margin-left: 30px;
+}
+.commentContainer {
+  display: flex;
+  flex-direction: row;
+  width: 53%;
+  overflow-x: scroll;
+  margin-top: 100px;
+}
+.pf {
+  width: 70px;
+  height: 70px;
+  border-radius: 45px;
+  margin-left: 20px;
+}
+.star {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.comment {
+  display: flex;
+  margin-left: 20px;
+  width: 290px;
+  margin-top: 30px;
+}
+.hos {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+}
+.name {
+  display: flex;
+  align-items: center;
+  margin-left: 36px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer {
+  margin-top: 300px;
+  width: 100vw;
+  height: 400px;
+  background-color: #252b3b;
+}
+.instagram {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  margin-left: 200px;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.flex {
+  display: flex;
+}
+.tseg {
+  font-weight: 800;
+  font-size: 48px;
+}
+.lol {
+  font-weight: 400;
+  font-size: 14px;
+  margin-left: 15px;
+  margin-top: 3px;
+}
+.case {
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 30px;
+}
+.use {
+  display: flex;
+  flex-direction: column;
+  margin-left: 300px;
+}
+.zai {
+  margin-top: 10px;
+}
+.ui {
+  margin-top: 15px;
+}
+.ok {
+  margin-left: 150px;
+}
+.sub {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+.email {
+  color: #4da0fd;
+  width: 300px;
+  height: 60px;
+}
+.dood {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1500px;
+}
